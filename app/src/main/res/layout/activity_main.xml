@@ -33,7 +33,7 @@
             android:layout_weight="1"
             android:background="#AFFFAA"
             android:onClick="klik"
-            android:text="" />
+            android:text="a" />
 
         <Button
             android:id="@+id/button2"
@@ -42,7 +42,7 @@
             android:layout_weight="1"
             android:background="#FFFFFF"
             android:onClick="ok"
-            android:text="" />
+            android:text="b" />
 
         <Button
             android:id="@+id/button"
@@ -51,7 +51,7 @@
             android:layout_weight="1"
             android:background="#BBBBBB"
             android:onClick="klik"
-            android:text="" />
+            android:text="c" />
 
     </LinearLayout>
 
